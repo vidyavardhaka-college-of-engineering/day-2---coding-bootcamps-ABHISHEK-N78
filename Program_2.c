@@ -4,8 +4,10 @@
 int main()
 {
 //Replace Your Code and values in bellow two lines
-int "Replace Variable Name" = "Your age";
-float "Replace Varibale name" = "Your Weight";
+int AGE = 18;
+float Weight = 76.88;
+printf("my age is %d",AGE);
+printf("my weight is %f",Weight);
 
 //If you done correct you will get this meessage 
 printf("Good Job..");

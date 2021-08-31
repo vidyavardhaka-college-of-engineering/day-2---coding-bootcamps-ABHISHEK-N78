@@ -10,10 +10,13 @@
 int main()
 {
     int a, b, temp;
+    printf("enter a and b values\n");
     scanf("%d%d", &a, &b);
 
     //Write your code here
-    
+    temp=a;
+    a=b;
+    b=temp;
     
 
   
